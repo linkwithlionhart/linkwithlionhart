@@ -1,24 +1,19 @@
-### Hello, World! 👋
-My name is William and I work in education technology. Here's what I've been up to:
+# Hello, World! 👋
+
+[![William's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=linkwithlionhart&show_icons=true&theme=gruvbox)](https://github.com/linkwithlionhart/github-readme-stats)
+
+## Pleasure to meet you. 🤝
+My name is William and I work in education technology or EduTech for short. Here's what I've been up to:
 - 🔭 I’m currently working on a Ruby on Rails project.
 - 🌱 I’m currently learning full stack web development at Lighthouse Labs.
 - 👯 I’m looking to collaborate on React and React Native projects.
 
-[![William's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=linkwithlionhart&show_icons=true&theme=gruvbox)](https://github.com/linkwithlionhart/github-readme-stats)
+## My Tech Stack & Tools
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+![JavaScript](assets/javascript.svg) ![HTML](assets/html.svg) ![CSS](assets/css.svg)  ![Bootstrap](assets/bootstrap.svg) ![jQuery](assets/jquery.svg)
 
-<!--
-**linkwithlionhart/linkwithlionhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![React](assets/react.svg) ![Create React App](assets/create.svg) ![Node](assets/node.svg) ![Express](assets/express.svg)
 
-Here are some ideas to get you started:
+![VSCode](assets/vscode.svg) ![Git](assets/git.svg) ![NPM](assets/npm.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👆 Done with the guidance of this wonderful [guide by Ellaine Tolentino](https://dev.to/tolentinoel/customized-tech-stack-badges-for-your-profile-1dpg).
