@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hello, World! 👋
+My name is William and I work in education technology. Here's what I've been up to:
+- 🔭 I’m currently working on a Ruby on Rails project.
+- 🌱 I’m currently learning full stack web development at Lighthouse Labs.
+- 👯 I’m looking to collaborate on React and React Native projects.
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkwithlionhart)](https://github.com/linkwithlionhart/github-readme-stats)
+[![William's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=linkwithlionhart&show_icons=true&theme=gruvbox)](https://github.com/linkwithlionhart/github-readme-stats)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 
 <!--
 **linkwithlionhart/linkwithlionhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
