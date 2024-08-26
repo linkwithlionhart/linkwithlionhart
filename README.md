@@ -4,8 +4,8 @@
 My name is William and I work in education technology or EduTech for short. Here's what I've been up to:
 - 🔭 I’m currently learning Python on Codecademy.
 - 🌱 I’m currently learning IBM AI Product Managemment on Coursera.
-- 🌱 I've completed Google's Project Management professional certificate
-- I've worked as a technical project coordinator and volunteer as a program and project manager.
+- ✅ I've completed Google's Project Management professional certificate
+- 💪 I've worked as a technical project coordinator and volunteer as a program and project manager.
 - 👯 I’m looking to collaborate on React and React Native projects.
 
 ## My Tech Stack & Tools
