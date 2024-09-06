@@ -1,11 +1,12 @@
 # Hello, World! 👋
 
 <!-- ## Pleasure to meet you. 🤝 -->
-My name is William and I work in education technology or EduTech for short. Here's what I've been up to:
+My name is William and I have a background working education technology or EduTech. Here's what I've been up to:
+- 🙏 I volunteer as a Program Manager and Project Coordinator at New Idea Machine.
 - 🔭 I’m currently learning Python on Codecademy.
-- 🌱 I’m currently learning IBM AI Product Managemment on Coursera.
+- 🌱 I’m currently completing the IBM AI Product Managemment program on Coursera.
 - ✅ I've completed Google's Project Management professional certificate.
-- 💪 I've worked as a technical project coordinator and volunteer as a program and project manager.
+- 💪 I've worked as a technical project coordinator.
 - 👯 I’m looking to collaborate on React and React Native projects.
 
 ## My Tech Stack & Tools
