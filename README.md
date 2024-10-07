@@ -2,7 +2,7 @@
 
 <!-- ## Pleasure to meet you. 🤝 -->
 My name is William and I have a background working education technology or EduTech. Here's what I've been up to:
-- 🙏 I volunteer as a Program Manager and Project Coordinator at New Idea Machine.
+- 🙏 I volunteer as a Product Manager and Project Coordinator at New Idea Machine.
 - 🔭 I’m currently learning Python on Codecademy.
 - 🌱 I’m currently completing the IBM AI Product Managemment program on Coursera.
 - ✅ I've completed Google's Project Management professional certificate.
